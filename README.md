@@ -32,7 +32,7 @@ Now, run the `polycompiler` command, providing the path to a JS file, a Python f
 polycompiler in.js in.py out.py.js
 ```
 
-> **🚧 WIP**: The current file convention for Polycompiler output file extension is `.py.js`. This is becuase Node refuses to parse files of other file extensions, so it has to end in `js`.
+> **🚧 WIP**: The current file convention for Polycompiler output file extension is `.py.js`. This is because Node refuses to parse files of other file extensions, so it has to end in `js`.
 
 ### Test it out
 
